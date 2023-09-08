@@ -1,0 +1,17 @@
+Answer number 2:-
+The comment tag is used to insert comments in the source code. Comments are not displayed in the browsers. We can use comments to explain our code, which can help us when we edit the source code at a later date.
+Example:
+<!--This is a comment. Comments are not displayed in the browser-->
+
+<p>This is a paragraph.</p>
+
+Answer number 4:-
+Tags are used to mark up the start of an HTML element and they are usually enclosed in angle brackets. 
+Example:  
+<h1>.
+An HTML element is defined by a starting tag. If the element contains other content, it ends with a closing tag.
+Example:  
+<h1>This is an element<h1>
+
+Answer number 5:-
+The HTML document type declaration, also known as DOCTYPE, is the first line of code required in every HTML or XHTML document. The DOCTYPE declaration is an instruction to the web browser about what version of HTML the page is written in.
